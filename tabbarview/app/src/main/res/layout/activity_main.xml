@@ -10,6 +10,9 @@
         android:id="@+id/tl_stamp_activity"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        app:tabIndicatorColor="@color/azure"
+        app:tabTextColor="#59484848"
+        app:tabSelectedTextColor="@color/azure"
         android:layout_marginTop="13dp">
 
     </com.google.android.material.tabs.TabLayout>
